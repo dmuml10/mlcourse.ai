@@ -1,7 +1,7 @@
 import pandas as pd
 import statistics
 
-PATH = 'athlete_events.csv'
+PATH = '../data/athlete_events.csv'
 
 #1. How old were the youngest male and female participants of the 1996 Olympics?
 def youngest_participants():
